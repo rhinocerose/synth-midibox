@@ -1,0 +1,12 @@
+[submodule "synth-midibox-SID-build"]
+	path = synth-midibox-SID-build
+	url = git@git-rhino:rhinocerose/synth-midibox-SID-build
+	branch = main
+[submodule "synth-midibox-reworks"]
+	path = synth-midibox-reworks
+	url = git@git-rhino:rhinocerose/synth-midibox-reworks
+	branch = main
+[submodule "synth-midibox-Ucapps"]
+	path = synth-midibox-Ucapps
+	url = git@git-rhino:rhinocerose/synth-midibox-Ucapps
+	branch = main
